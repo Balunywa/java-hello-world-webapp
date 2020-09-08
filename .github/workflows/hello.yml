@@ -13,11 +13,11 @@ on:
   push:
     branches: [ master ]
     paths: 
-      - .github/workflows/one-ms-aks.yml
+      - .github/workflows/hello.yml
   pull_request:
     branches: [ master ]
     paths: 
-      - .github/workflows/one-ms-aks.yml
+      - .github/workflows/hello.yml
 
 jobs:
   build_and_test:
