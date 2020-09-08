@@ -24,3 +24,4 @@ ENTRYPOINT ["java","-jar","/one-ms-aks.jar"]
 
 #ENTRYPOINT ["java","-Djava.security.egd=file:/dev/./urandom","-jar","/one-ms-aks.jar"]
 #testoneone
+#testing
